@@ -1,0 +1,20 @@
+{
+  "users": {
+    "defaultUser": {
+      "categories": {
+        "c1771299923718": {
+          "completed": false,
+          "name": "TakeUForward A2Z"
+        },
+        "c1771300364835": {
+          "completed": false,
+          "name": "Typing"
+        },
+        "c1771300573493": {
+          "completed": false,
+          "name": "Security"
+        }
+      }
+    }
+  }
+}
