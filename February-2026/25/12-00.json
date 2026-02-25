@@ -1,0 +1,32 @@
+{
+  "users": {
+    "defaultUser": {
+      "categories": {
+        "c1771299923718": {
+          "completed": false,
+          "name": "TakeUForward A2Z"
+        },
+        "c1771300364835": {
+          "completed": false,
+          "name": "Typing"
+        },
+        "c1771300573493": {
+          "completed": false,
+          "days": {
+            "2026-02-25": [
+              {
+                "done": true,
+                "text": "Day 1"
+              },
+              {
+                "done": false,
+                "text": "Day 2"
+              }
+            ]
+          },
+          "name": "Security"
+        }
+      }
+    }
+  }
+}
