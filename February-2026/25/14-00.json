@@ -1,0 +1,44 @@
+{
+  "users": {
+    "defaultUser": {
+      "categories": {
+        "c1771299923718": {
+          "completed": false,
+          "name": "TakeUForward A2Z"
+        },
+        "c1771300364835": {
+          "completed": false,
+          "days": {
+            "2026-02-25": [
+              {
+                "done": false,
+                "text": "Today's 30 Mins (35.0 WPM)"
+              }
+            ]
+          },
+          "name": "Typing"
+        },
+        "c1771300573493": {
+          "completed": false,
+          "days": {
+            "2026-02-25": [
+              {
+                "done": true,
+                "text": "Day 1"
+              },
+              {
+                "done": false,
+                "text": "Day 2"
+              }
+            ]
+          },
+          "name": "Security"
+        },
+        "c1772001314520": {
+          "completed": false,
+          "name": "C++ (roadmap.sh)"
+        }
+      }
+    }
+  }
+}
