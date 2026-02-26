@@ -1,0 +1,183 @@
+{
+  "users": {
+    "defaultUser": {
+      "categories": {
+        "c1769101572419": {
+          "completed": false,
+          "name": "Scaler SQL"
+        },
+        "c1769101587742": {
+          "completed": false,
+          "days": {
+            "2026-01-23": [
+              {
+                "done": true,
+                "text": "User Input / Output"
+              },
+              {
+                "done": true,
+                "text": "Data Types"
+              },
+              {
+                "done": true,
+                "text": "If Else statements"
+              },
+              {
+                "done": true,
+                "text": "Switch statements"
+              },
+              {
+                "done": true,
+                "text": "What are arrays, strings?"
+              },
+              {
+                "done": true,
+                "text": "For loops"
+              },
+              {
+                "done": true,
+                "text": "While loops"
+              },
+              {
+                "done": true,
+                "text": "Functions (Pass by Reference and Value)"
+              }
+            ],
+            "2026-02-16": [
+              {
+                "done": true,
+                "text": "hi"
+              },
+              {
+                "done": false,
+                "text": "buddy"
+              }
+            ]
+          },
+          "name": "Take U Forward A2Z"
+        },
+        "c1769101591349": {
+          "completed": true,
+          "days": {
+            "2026-01-22": [
+              {
+                "done": true,
+                "text": "Day 1"
+              },
+              {
+                "done": false,
+                "text": "Day 2"
+              }
+            ],
+            "2026-01-23": [
+              {
+                "done": true,
+                "text": "Day 3"
+              },
+              {
+                "done": true,
+                "text": "Day 4"
+              }
+            ],
+            "2026-01-24": [
+              {
+                "done": true,
+                "text": "Day 5"
+              }
+            ],
+            "2026-02-12": [
+              {
+                "done": true,
+                "text": "1"
+              },
+              {
+                "done": true,
+                "text": "2"
+              },
+              {
+                "done": true,
+                "text": "3"
+              },
+              {
+                "done": true,
+                "text": "4"
+              },
+              {
+                "done": false,
+                "text": "5"
+              }
+            ]
+          },
+          "name": "Security"
+        },
+        "c1769190002110": {
+          "completed": false,
+          "days": {
+            "2026-01-23": [
+              {
+                "done": true,
+                "text": "Introduction"
+              }
+            ],
+            "2026-01-24": [
+              {
+                "done": true,
+                "text": "What is a Reverse Engineer"
+              }
+            ]
+          },
+          "name": "Reverse Engineering 101"
+        },
+        "c1771210625351": {
+          "completed": false,
+          "name": "Mummy"
+        },
+        "c1771210646234": {
+          "completed": false,
+          "name": "Testing For Mummy"
+        },
+        "c1771229176320": {
+          "completed": true,
+          "name": "Testing 123"
+        },
+        "c1771230386754": {
+          "completed": false,
+          "name": "Testing 12"
+        }
+      },
+      "workoutState": {
+        "completed": [
+          "Lunges",
+          "Swimming / Cycling / Walking / Running / Flexibility (Yoga)"
+        ],
+        "end": 4,
+        "exp": 40,
+        "expNeeded": 100,
+        "lastMonthlyIncrement": "2026-02-26T17:24:02.725Z",
+        "level": 1,
+        "monthlyMultiplier": 1,
+        "monthsProgressed": 0,
+        "progressHistory": {
+          "dates": [
+            "2026-02-26"
+          ],
+          "end": [
+            2
+          ],
+          "levels": [
+            1
+          ],
+          "str": [
+            2
+          ]
+        },
+        "str": 2,
+        "totalWorkouts": 2,
+        "x2Completed": [
+          "Lunges",
+          "Swimming / Cycling / Walking / Running / Flexibility (Yoga)"
+        ]
+      }
+    }
+  }
+}
