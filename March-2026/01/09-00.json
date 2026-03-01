@@ -1,0 +1,32 @@
+{
+  "users": {
+    "defaultUser": {
+      "categories": {
+        "c1771299923718": {
+          "completed": false,
+          "name": "TakeUForward Striver A2Z DSA"
+        },
+        "c1771300364835": {
+          "completed": false,
+          "name": "Typing"
+        },
+        "c1771300573493": {
+          "completed": false,
+          "name": "Security"
+        },
+        "c1772001314520": {
+          "completed": false,
+          "name": "C++ (roadmap.sh)"
+        },
+        "c1772210916851": {
+          "completed": false,
+          "name": "Reverse Engineering 101"
+        },
+        "c1772210958770": {
+          "completed": false,
+          "name": "Reverse Engineering 102"
+        }
+      }
+    }
+  }
+}
