@@ -1,0 +1,109 @@
+{
+  "users": {
+    "defaultUser": {
+      "categories": {
+        "c1771299923718": {
+          "completed": false,
+          "name": "TakeUForward Striver A2Z DSA"
+        },
+        "c1771300364835": {
+          "completed": false,
+          "days": {
+            "2026-03-01": [
+              {
+                "done": false,
+                "isNew": true,
+                "text": "Today's 30 mins (35 WPM)"
+              }
+            ]
+          },
+          "name": "Typing"
+        },
+        "c1771300573493": {
+          "completed": false,
+          "days": {
+            "2026-03-01": [
+              {
+                "done": false,
+                "text": "Day 1"
+              },
+              {
+                "done": false,
+                "text": "Day 2"
+              },
+              {
+                "done": false,
+                "text": "Day 3"
+              },
+              {
+                "done": false,
+                "text": "Day 4"
+              },
+              {
+                "done": false,
+                "text": "Day 5"
+              },
+              {
+                "done": false,
+                "text": "Day 6"
+              }
+            ]
+          },
+          "name": "Security"
+        },
+        "c1772001314520": {
+          "completed": false,
+          "name": "C++ (roadmap.sh)"
+        },
+        "c1772210916851": {
+          "completed": false,
+          "days": {
+            "2026-03-01": [
+              {
+                "done": false,
+                "text": "Introduction"
+              },
+              {
+                "done": false,
+                "text": "What is a Reverse Engineer"
+              },
+              {
+                "done": false,
+                "text": "Environment Setup"
+              },
+              {
+                "done": false,
+                "text": "Anatomy of a Windows PE C program"
+              }
+            ]
+          },
+          "name": "Reverse Engineering 101"
+        },
+        "c1772210958770": {
+          "completed": false,
+          "days": {
+            "2026-03-01": [
+              {
+                "done": false,
+                "text": "Introduction"
+              },
+              {
+                "done": false,
+                "text": "Environment Setup"
+              },
+              {
+                "done": false,
+                "text": "Information Gathering Exercise"
+              },
+              {
+                "done": false,
+                "text": "Information Gathering Results"
+              }
+            ]
+          },
+          "name": "Reverse Engineering 102"
+        }
+      }
+    }
+  }
+}
