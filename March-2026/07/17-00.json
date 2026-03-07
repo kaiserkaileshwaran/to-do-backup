@@ -1,0 +1,163 @@
+{
+  "users": {
+    "kailesh": {
+      "categories": {
+        "c1771299923718": {
+          "completed": false,
+          "days": {
+            "2026-03-01": [
+              {
+                "done": true,
+                "text": "Input Output"
+              },
+              {
+                "done": true,
+                "text": "Cpp Basics"
+              },
+              {
+                "done": true,
+                "text": "If ElseIf"
+              },
+              {
+                "done": true,
+                "text": "Switch Case"
+              },
+              {
+                "done": true,
+                "text": "What are arrays, strings?"
+              },
+              {
+                "done": true,
+                "text": "For loops"
+              },
+              {
+                "done": true,
+                "text": "While loops"
+              },
+              {
+                "done": true,
+                "text": "Functions (Pass by Reference and Value)"
+              },
+              {
+                "done": true,
+                "text": "Theory with examples"
+              }
+            ],
+            "2026-03-07": [
+              {
+                "done": false,
+                "isNew": true,
+                "text": "Easy and Medium"
+              }
+            ]
+          },
+          "name": "TakeUForward Striver A2Z DSA"
+        },
+        "c1771300364835": {
+          "completed": false,
+          "days": {
+            "2026-03-07": [
+              {
+                "done": false,
+                "text": "Today's 30 mins (35 WPM)"
+              }
+            ]
+          },
+          "name": "Typing"
+        },
+        "c1771300573493": {
+          "completed": false,
+          "days": {
+            "2026-03-01": [
+              {
+                "done": true,
+                "text": "Day 1"
+              },
+              {
+                "done": false,
+                "text": "Day 2"
+              },
+              {
+                "done": true,
+                "text": "Day 3"
+              },
+              {
+                "done": true,
+                "text": "Day 4"
+              },
+              {
+                "done": true,
+                "text": "Day 5"
+              },
+              {
+                "done": true,
+                "text": "Day 6"
+              }
+            ],
+            "2026-03-07": [
+              {
+                "done": false,
+                "text": "Day 7"
+              },
+              {
+                "done": false,
+                "text": "Day 8"
+              },
+              {
+                "done": false,
+                "text": "Day 9"
+              },
+              {
+                "done": false,
+                "text": "Day 10"
+              }
+            ]
+          },
+          "name": "Security"
+        },
+        "c1772373624637": {
+          "completed": false,
+          "days": {
+            "2026-03-01": [
+              {
+                "done": true,
+                "text": "Introduction to C++"
+              },
+              {
+                "done": true,
+                "text": "Setting Up C++"
+              },
+              {
+                "done": true,
+                "text": "Basic Operations in C++"
+              },
+              {
+                "done": true,
+                "text": "Control Flow & Statements"
+              }
+            ],
+            "2026-03-07": [
+              {
+                "done": false,
+                "text": "Functions in C++"
+              },
+              {
+                "done": false,
+                "text": "Data Types in C++"
+              },
+              {
+                "done": false,
+                "text": "Pointers"
+              },
+              {
+                "done": false,
+                "text": "Structuring Codebase"
+              }
+            ]
+          },
+          "name": "C++ (roadmap.sh)"
+        }
+      }
+    }
+  }
+}
