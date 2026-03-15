@@ -1,0 +1,56 @@
+{
+  "users": {
+    "kailesh": {
+      "categories": {
+        "c1771299923718": {
+          "completed": false,
+          "days": {
+            "2026-03-01": [
+              {
+                "done": true,
+                "text": "Input Output"
+              },
+              {
+                "done": true,
+                "text": "Cpp Basics"
+              },
+              {
+                "done": true,
+                "text": "If ElseIf"
+              },
+              {
+                "done": true,
+                "text": "Switch Case"
+              },
+              {
+                "done": true,
+                "text": "What are arrays, strings?"
+              },
+              {
+                "done": true,
+                "text": "For loops"
+              },
+              {
+                "done": true,
+                "text": "While loops"
+              },
+              {
+                "done": true,
+                "text": "Functions (Pass by Reference and Value)"
+              },
+              {
+                "done": true,
+                "text": "Theory with examples"
+              }
+            ]
+          },
+          "name": "TakeUForward Striver A2Z DSA"
+        },
+        "c1771300364835": {
+          "completed": false,
+          "name": "Typing"
+        }
+      }
+    }
+  }
+}
