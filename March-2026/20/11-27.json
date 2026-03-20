@@ -1,0 +1,177 @@
+{
+  "users": {
+    "kailesh": {
+      "categories": {
+        "c1771299923718": {
+          "completed": false,
+          "days": {
+            "2026-03-20": [
+              {
+                "done": false,
+                "text": "Input Output"
+              },
+              {
+                "done": false,
+                "text": "Cpp Basics"
+              },
+              {
+                "done": false,
+                "text": "If ElseIf"
+              },
+              {
+                "done": false,
+                "text": "Switch Case"
+              },
+              {
+                "done": false,
+                "text": "What are arrays, strings?"
+              },
+              {
+                "done": false,
+                "text": "For loops"
+              },
+              {
+                "done": false,
+                "text": "While loops"
+              },
+              {
+                "done": false,
+                "text": "Functions (Pass by Reference and Value)"
+              },
+              {
+                "done": false,
+                "text": "Theory with examples"
+              },
+              {
+                "done": false,
+                "text": "Easy and Medium"
+              },
+              {
+                "done": false,
+                "text": "STL"
+              },
+              {
+                "done": false,
+                "text": "Java Collections"
+              },
+              {
+                "done": false,
+                "text": "Count all Digits of a Number"
+              },
+              {
+                "done": false,
+                "text": "Reverse a number"
+              },
+              {
+                "done": false,
+                "text": "Palindrome Number"
+              },
+              {
+                "done": false,
+                "text": "GCD of Two Numbers"
+              },
+              {
+                "done": false,
+                "text": "Check if the Number is Armstrong"
+              },
+              {
+                "done": false,
+                "text": "Print all Divisors"
+              },
+              {
+                "done": false,
+                "text": "Check for Prime Number"
+              },
+              {
+                "done": false,
+                "text": "Understand recursion by print something N times"
+              },
+              {
+                "done": false,
+                "text": "Print name N times using recursion"
+              },
+              {
+                "done": false,
+                "text": "Print 1 to N using Recursion"
+              },
+              {
+                "done": false,
+                "text": "Print N to 1 using Recursion"
+              },
+              {
+                "done": false,
+                "text": "Sum of First N Numbers"
+              },
+              {
+                "done": false,
+                "text": "Factorial of a given number"
+              },
+              {
+                "done": false,
+                "text": "Reverse an array"
+              },
+              {
+                "done": false,
+                "text": "Check if String is Palindrome or Not"
+              },
+              {
+                "done": false,
+                "text": "Fibonacci Number"
+              },
+              {
+                "done": false,
+                "text": "Basic Hashing"
+              },
+              {
+                "done": false,
+                "text": "Counting Frequencies of Array Elements"
+              },
+              {
+                "done": false,
+                "isNew": true,
+                "text": "Highest Occurring Element in an Array"
+              }
+            ]
+          },
+          "name": "TakeUForward Striver A2Z DSA"
+        },
+        "c1771300364835": {
+          "completed": false,
+          "days": {
+            "2026-03-20": [
+              {
+                "done": false,
+                "text": "Today's 30 mins (35 WPM)"
+              }
+            ]
+          },
+          "name": "Typing"
+        },
+        "c1773934335724": {
+          "completed": false,
+          "days": {
+            "2026-03-20": [
+              {
+                "done": true,
+                "text": "Face Wash 1"
+              },
+              {
+                "done": false,
+                "text": "Bath"
+              },
+              {
+                "done": false,
+                "text": "Face Wash 2"
+              },
+              {
+                "done": false,
+                "text": "Nail Cutting"
+              }
+            ]
+          },
+          "name": "Health, Skin"
+        }
+      }
+    }
+  }
+}
